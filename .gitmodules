@@ -1,0 +1,4 @@
+ [submodule "amandagamlen.github.io/ime"]
+    path = amandagamlen.github.io/ime
+    url = git@github.com:amandagamlen/ime.git
+    
